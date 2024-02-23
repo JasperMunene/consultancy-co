@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+}
+h1{
+    font-size: 4rem;
+}
+
+h2{
+    font-size: 25px;
+    color: antiquewhite;
+}
+.fontheading{
+    font-family: 'Libre Bodoni', serif;
+}
+.fontbody{
+    font-family: 'DM Sans', sans-serif;
+}
+.container-fluid{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.header-img{
+    width: 100%;
+    height: 750px;
+}
+.header-logo{
+    position: absolute;
+    top: 50px;
+    left: 25px;
+    font-family: 'Libre Bodoni',serif;
+    text-align: left;
+}
+.header-text{
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    font-size: 2rem;
+    font-family: 'DM Sans', sans-serif;
+    text-align: left;
+}
+#section-2{
+    background-color:black;
+}
+.section-4-img{
+    width: 100%;
+    height: 600px;
+}
+.section-4-txt{
+    position: absolute;
+    top: 10%;
+    left: 25px;
+    text-align: left;
+    font-size: 2.5rem;
+    color: white;
+}
+#section-5{
+    background-color:#FF9040 ;
+}
+.section-5-text{
+    text-align: left;
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:1fr 1fr 1fr ;
+    text-align: left;
+}
+.grid-4{
+    grid-area: 1/2/2/4;
+    display: flex;
+    justify-content: center;
+    height: 20vh;
+    align-items: center;
+}
+.grid-3{
+    grid-area: 3/1/4/2;
+}
+.grid-2{
+    grid-area: 2/1/3/2;
+}
+.fontsize{
+    font-size: 1.3rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
