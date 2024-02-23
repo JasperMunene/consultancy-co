@@ -32,7 +32,7 @@ To use this website template, simply download or clone the repository to your lo
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaspermunene/consultant-website.git
+   git clone https://github.com/JasperMunene/consultant-website.git
    ```
 2. Navigate to the project directory:
    ```
